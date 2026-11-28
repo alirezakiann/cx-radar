@@ -1,5 +1,5 @@
 # CX-Radar: سامانه تحلیل نظرات مشتریان و ریشه‌یابی شکایات (اسنپ‌فود)
-
+ 
 [🇺🇸 English Version Below](#-english-version)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/cx-radar/blob/main/notebooks/01_data_snappfood.ipynb)
